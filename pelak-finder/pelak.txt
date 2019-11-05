@@ -1,0 +1,246 @@
+15-ب-azarbaijansh-tabriz
+15-ج-azarbaijansh-tabriz
+15-د-azarbaijansh-tabriz
+15-س-azarbaijansh-tabriz
+15-ص-azarbaijansh-tabriz
+15-ط-azarbaijansh-tabriz
+15-ق-azarbaijansh-tabriz
+15-ل-azarbaijansh-tabriz
+15-م-azarbaijansh-tabriz
+15-ن-azarbaijansh-tabriz
+15-و-azarbaijansh-tabriz
+15-ه-azarbaijansh-tabriz
+15-ی-azarbaijansh-tabriz
+25-ب-azarbaijansh-maraghe
+25-ج-azarbaijansh-marand
+25-د-azarbaijansh-miyane
+25-س-azarbaijansh-ahar
+25-ص-azarbaijansh-sarab
+25-ط-azarbaijansh-jolfa
+25-ق-azarbaijansh-hashtrood
+25-ل-azarbaijansh-bonab
+25-م-azarbaijansh-bostan abad
+25-ن-azarbaijansh-shabestar
+25-و-azarbaijansh-koliber
+25-ه-azarbaijansh-heris
+25-ی-azarbaijansh-azar shahr
+35-ل-azarbaijansh-tabriz
+35-م-azarbaijansh-tabriz
+35-ب-azarbaijansh-osko
+35-ج-azarbaijansh-varzeghan
+35-د-azarbaijansh-ajabshir
+35-س-azarbaijansh-charavimlagh
+35-ص-azarbaijansh-malekan
+17-ب-azarbaijangh-oromiye
+17-ج-azarbaijangh-oromiye
+17-د-azarbaijangh-oromiye
+17-س-azarbaijangh-oromiye
+17-ص-azarbaijangh-oromiye
+17-ط-azarbaijangh-oromiye
+17-ق-azarbaijangh-oromiye
+17-ل-azarbaijangh-oromiye
+17-م-azarbaijangh-oromiye
+27-ن-azarbaijangh-bookan
+27-ج-azarbaijangh-mahabad
+27-م-azarbaijangh-sardasht
+27-ب-azarbaijangh-khoy
+27-س-azarbaijangh-salmas
+27-ص-azarbaijangh-naghde
+27-ط-azarbaijangh-miandoab
+27-و-azarbaijangh-piranshahr
+27-ی-azarbaijangh-eshnaviye
+27-ل-azarbaijangh-shahindezh
+27-د-azarbaijangh-makoo
+27-ق-azarbaijangh-takab
+27-ه-azarbaijangh-chaldoran
+37-ب-azarbaijangh-khoy
+37-ص-azarbaijangh-mahabad
+37-ل-azarbaijangh-makoo
+37-ق-azarbaijangh-salmas
+37-ج-azarbaijangh-miandoab
+37-ط-azarbaijangh-bookan
+91-*-ardebil-ardebil
+13-*-esfehan-esfehan
+53-*-esfehan-esfehan
+67-*-esfehan-esfehan
+43-س-esfehan-aran va bidgol and kashan
+43-ج-esfehan-mobarake
+43-د-esfehan-shahin shahr
+43-ص-esfehan-tiran va kron
+23-ه-esfehan-flaverjan
+23-ی-esfehan-zarinshahr
+23-ب-esfehan-kashan
+23-ج-esfehan-najafabad
+23-د-esfehan-shahreza
+23-م-esfehan-naeen
+23-ط-esfehan-natanz
+23-ن-esfehan-samirem
+23-ی-esfehan-fooladshahr
+68-*-alborz-karaj
+21-و-alborz-karaj
+21-ص-alborz-karaj
+38-ب-alborz-karaj
+38-د-alborz-karaj
+38-س-alborz-karaj
+78-ط-alborz-shahrestan ha
+21-ص-alborz-shahrestan ha
+98-*-ilam-ilam va shahrestan ha
+48-*-booshehr-booshehr
+58-س-booshehr-tangestan
+58-ص-booshehr-dashti
+58-ب-booshehr-dashtestan
+58-ج-booshehr-genave
+58-د-booshehr-kangan
+58-ط-booshehr-dir
+58-ق-booshehr-dilam
+21-*-tehran-shahrestan ha (except ص  and و)
+78-س-tehran-varamin
+78-ل-tehran-pakdasht
+78-د-tehran-shahriar
+78-ه-tehran-shahriar
+78-ی-tehran-eslamshahr
+78-ب-tehran-eslamshahr
+78-ص-tehran-damavand va roodehen
+78-و-tehran-oshan va fasham
+78-ن-tehran-rey
+78-ج-tehran-robatkarim
+78-ط-tehran-taleghan va savojbolagh
+78-ق-tehran-firoozkoo
+71-*-chaharmahal-shahrkord
+81-ج-chaharmahal-ardel
+81-ب-chaharmahal-borojen
+81-د-chaharmahal-farsan
+26-ب-khorasan sh-bojnoord
+26-ج-khorasan sh-bojnoord
+26-د-khorasan sh-bojnoord
+26-س-khorasan sh-bojnoord
+74-ج-khorasan sh-bojnoord
+26-ص-khorasan sh-shirvan
+26-ق-khorasan sh-esfarin
+26-و-khorasan sh-jajrom va garme va mane
+26-م-khorasan sh-faroj
+12-*-khorasan r-mashhad
+36-*-khorasan r-mashhad
+74-*-khorasan r-mashhad
+36-ی-khorasan r-torbat jam
+36-ن-khorasan r-torbat heidariye
+36-م-khorasan r-sabzevar
+36-ل-khorasan r-neishaboor
+36-ق-khorasan r-kashmar
+32-د-khorasan r-birjand
+32-ط-khorasan r-ghoochan
+32-م-khorasan r-kashmar
+32-ب-khorasan r-neishaboor
+32-ج-khorasan r-sabzevar
+32-ص-khorasan r-torbat jam
+32-ل-khorasan r-torbat heidariye
+32-د-khorasan r-sarakhs
+32-ق-khorasan r-gonabad
+32-ه-khorasan r-taibad
+42-ل-khorasan r-bordseken
+42-م-khorasan r-rashtkhar
+42-ص-khorasan r-khaf
+42-ج-khorasan r-mashhad
+52-*-khorasan j-birjand
+32-*-khorasan j-shahrestan ha
+14-*-khoozestan-ahvaz
+22-*-khoozestan-shahrestan ha
+34-*-khoozestan-shahrestan ha
+87-*-zanjan-zanjan
+97-ب-zanjan-abhar
+97-ج-zanjan-khodabande
+97-د-zanjan-khoramdare
+86-*-semnan-semnan
+96-ب-semnan-damghan
+96-د-semnan-garmsar
+96-ج-semnan-shahrood
+85-*-sistan va baloochestan-zahedan
+95-ق-sistan va baloochestan-chabahar va sayer
+63-*-fars-shiraz
+93-*-fars-shiraz
+73-*-fars-shahrestan ha
+83-*-fars-shahrestan ha
+79-*-qazvin-qazvin
+89-*-qazvin-shahrestan ha
+16-*-qom-qom
+51-*-kordestan-sanandaj
+61-د-kordestan-bane
+61-ب-kordestan-saqez
+61-ج-kordestan-bijar
+61-س-kordestan-gharve
+61-ص-kordestan-marivan
+61-ط-kordestan-divandare
+61-ق-kordestan-kamyaran
+61-ل-kordestan-sarvabad
+45-*-kerman-kerman
+75-*-kerman-shahrestan ha
+65-ب-kerman-rafsanjan
+65-ه-kerman-ravar
+65-ط-kerman-zarand
+65-ص-kerman-jiroft
+65-ن-kerman-manojan
+65-و-kerman-anbarabad
+65-ج-kerman-bam
+65-د-kerman-sirjan
+65-س-kerman-baft
+65-ق-kerman-kahnooj
+65-ل-kerman-shahrbabak
+65-م-kerman-bordsir
+19-*-kermanshah-kermanshah
+29-*-kermanshah-shahrestan ha
+39-*-kermanshah-shahrestan ha
+49-*-kohkiloye-yasooj va shahrestan ha
+59-*-golestan-gorgan
+69-ب-golestan-gonbad
+46-*-gilan-rasht
+56-ب-gilan-anzali
+56-م-gilan-langurud
+56-ص-gilan-rudsar
+56-ج-gilan-lahijan
+56-ط-gilan-rudbar
+56-ل-gilan-fooman
+56-س-gilan-talesh
+56-ق-gilan-soome sara
+56-و-gilan-amlash
+56-ن-gilan-rezvanshahr
+56-د-gilan-astra
+76-ب-gilan-siyahkal
+76-ج-gilan-astane
+31-*-lorestan-khoramabad
+41-ب-lorestan-borojerd
+41-ج-lorestan-aligudarz
+41-د-lorestan-dorod
+62-*-mazandaran-sari
+92-*-mazandaran-shahrestan ha
+72-ب-mazandaran-amol
+72-ج-mazandaran-babol
+72-د-mazandaran-tonekabon
+72-س-mazandaran-ramsar
+72-ص-mazandaran-noshahr
+72-ط-mazandaran-noor
+72-ق-mazandaran-behshahr
+72-ل-mazandaran-ghaem shahr
+72-م-mazandaran-babolsar
+72-ن-mazandaran-chalus
+72-و-mazandaran-mahmudabad
+72-ه-mazandaran-neka
+72-ی-mazandaran-jooybar
+82-ج-mazandaran-babol
+82-ص-mazandaran-babol
+82-م-mazandaran-babol
+82-ب-mazandaran-savadkoo
+47-*-markazi-arak
+57-س-markazi-tafarosh
+57-ب-markazi-save
+57-د-markazi-mahalat
+84-*-hormozgan-bandarabas
+94-*-hormozgan-shahrestan ha
+18-*-hamedan-hamedan
+28-*-hamedan-shahrestan ha
+54-*-yazd-yazd
+64-ج-yazd-taft
+64-ق-yazd-tabas
+64-د-yazd-meybod
+64-ص-yazd-mehriz
+64-ل-yazd-harat
+64-ب-yazd-ardakan
