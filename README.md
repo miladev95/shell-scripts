@@ -16,3 +16,8 @@
 	Example
 	./weather.sh --location tehran
 	./weather.sh -l tehran
+
+# Renamer (rename all files and directories in current directory)
+	Example
+	./renamer python_ milad  ## to replace python_ string to all files and directores with milad.
+	./renamer python         ## to add python_ string to start of all files and directories.
