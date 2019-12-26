@@ -1,0 +1,3 @@
+www = world wide web
+url = uniform resource locator
+uri = universal resource identifier

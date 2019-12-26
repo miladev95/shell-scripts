@@ -1,6 +1,6 @@
 inputNumber=$1
 inputString=$2
-file='./pelak.txt'
+file='./plate.txt'
 while read line
 do
 	pelakNumber=$(echo $line | cut -f1 -d-)
