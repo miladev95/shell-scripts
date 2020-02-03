@@ -21,3 +21,8 @@
 	Example
 	./renamer python_ milad  ## to replace python_ string to all files and directores with milad.
 	./renamer python         ## to add python_ string to start of all files and directories.
+# Abbreviation (computer science abbreviation)
+	Example
+	./abbreviation.sh csrf
+# System information
+a menu driven system information reporter 
