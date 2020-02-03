@@ -53,3 +53,5 @@ led = light-emitting diode
 mac = media access control
 lfi = local file inclusion
 rfi = remote file inclusion
+ocr = optical character recognition
+csrf = cross-site request forgery
