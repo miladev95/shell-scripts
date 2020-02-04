@@ -55,3 +55,5 @@ lfi = local file inclusion
 rfi = remote file inclusion
 ocr = optical character recognition
 csrf = cross-site request forgery
+pgp = pretty good privacy
+gpg = gnuprivacy guard
