@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mar-tools-linux32">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extractor/mar-tools-linux32.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
